@@ -38,22 +38,26 @@ iris_app/
 ## How to Run Locally
 
 1. Clone the repository
+   
 git clone your-repository-link
 
 
 2. Navigate into the project folder
+   
 cd iris_app
 
 
-3. Install dependencies
+4. Install dependencies
+   
 pip install -r requirements.txt
 
 
-4. Run the application
+6. Run the application
+   
 python app.py
 
 
-5. Open your browser and visit:
+8. Open your browser and visit:
 http://127.0.0.1:5000
 
 
